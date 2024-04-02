@@ -1,6 +1,3 @@
-Creating a README file for a Selenium, Cucumber, and Java repository on GitHub is a crucial step to provide necessary information about the project to potential users and collaborators. Here's a template you can use:
-
-```markdown
 # Selenium Cucumber Java Repository
 
 This repository contains a Java project demonstrating how to use Selenium with Cucumber for automated testing of web applications.
