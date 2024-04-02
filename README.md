@@ -1,1 +1,1 @@
-# Cucumber_Selenium_Java
+# CucumberSeleniumJava
